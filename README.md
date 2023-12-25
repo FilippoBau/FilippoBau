@@ -1,12 +1,19 @@
-### Hi 👋, I'm Filippo Baudanza
-- 🔭 I'm currently working as product security Engineer at [PagoPA](https://github.com/pagopa)
-- 🌱 I’m currently learning Terraform and Docker
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/filippo-baudanza-3a62a1257) or [e-mail](mailto:fil.baudanza@gmail.com)
-- ⚡ Fun fact:I love perfumes
+# Hi there! 👋 I'm Filippo Baudanza
 
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FilippoBau&show_icons=true&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoBau&size_weight=0.5&count_weight=0.5&theme=dark)
+I'm Filippo Baudanza, a passionate Product Security Engineer at [PagoPA](https://github.com/pagopa).
+
+- 🌱 **Currently Learning:** Terraform and Docker  
+- 📫 **How to Reach Me:** [LinkedIn](www.linkedin.com/in/filippo-baudanza-3a62a1257) | [E-mail](mailto:fil.baudanza@gmail.com)  
+- ⚡ **Fun Fact:** I have a deep appreciation for perfumes!
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilippoBau&show_icons=true&include_all_commits=true&theme=dark)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoBau&size_weight=0.5&count_weight=0.5&theme=dark)
+
+Feel free to explore my repositories, and don't hesitate to connect or reach out!
+
 
 <!--
 **FilippoBau/FilippoBau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
