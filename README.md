@@ -9,7 +9,7 @@ I'm Filippo Baudanza, a passionate Product Security Engineer at [PagoPA](https:/
 ![Profile Views](https://komarev.com/ghpvc/?username=FilippoBau&color=blue)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilippoBau&show_icons=true&include_all_commits=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilippoBau&show_icons=true&theme=dark)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoBau&size_weight=0.5&count_weight=0.5&theme=dark)
