@@ -2,7 +2,7 @@
 
 I'm Filippo Baudanza, a passionate Product Security Engineer at [PagoPA](https://github.com/pagopa).
 
-- 📫 **How to Reach Me:** [LinkedIn](www.linkedin.com/in/filippo-baudanza-3a62a1257) | [E-mail](mailto:fil.baudanza@gmail.com)  
+- 📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/filippo-baudanza-3a62a1257) | [E-mail](mailto:fil.baudanza@gmail.com)  
 - ⚡ **Fun Fact:** I have a deep appreciation for perfumes!
   
 ![Profile Views](https://komarev.com/ghpvc/?username=FilippoBau&color=blue)
