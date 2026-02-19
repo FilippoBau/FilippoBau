@@ -1,17 +1,10 @@
-# Hi there! 👋 I'm Filippo Baudanza
+# Hi there! 👋
 
 I'm Filippo Baudanza, a passionate Product Security Engineer at [PagoPA](https://github.com/pagopa).
 
 - 📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/filippo-baudanza-3a62a1257) | [E-mail](mailto:fil.baudanza@gmail.com)  
-- ⚡ **Fun Fact:** I have a deep appreciation for perfumes!
   
 ![Profile Views](https://komarev.com/ghpvc/?username=FilippoBau&color=blue)
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilippoBau&show_icons=true&theme=dark)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoBau&size_weight=0.5&count_weight=0.5&theme=dark)
 
 Feel free to explore my repositories, and don't hesitate to connect or reach out!
 
